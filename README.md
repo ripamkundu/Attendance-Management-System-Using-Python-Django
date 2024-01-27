@@ -1,6 +1,6 @@
 ![Project Logo](https://user-images.githubusercontent.com/48133426/116291303-0a138200-a7b2-11eb-963c-5ead9628ec90.jpg)
 
-## Attendance Management System Using Face Recognition 💻
+## Attendance Management System Using Face Recognition 💻💻
 [Link To Presentation](https://youtu.be/6qQZr9h8qL0)
 
 This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in, and time-out of employees. It covers areas such as facial detection, alignment, and recognition, along with the development of a web application to cater to various use cases of the system such as registration of new employees, addition of photos to the training dataset, viewing attendance reports, etc. This project intends to serve as an efficient substitute for traditional manual attendance systems. It can be used in corporate offices, schools, and organizations where security is essential.
